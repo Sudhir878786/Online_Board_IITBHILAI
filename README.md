@@ -8,7 +8,9 @@ Checkout the Whiteboard Working Live URL -https://onlinemultiboard.herokuapp.com
 
 
 
-
+## issue 
+it won't work properly in smartphone.
+use tabs or laptops
 
 
 
